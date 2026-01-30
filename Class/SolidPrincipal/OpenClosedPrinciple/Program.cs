@@ -2,7 +2,7 @@
 //class should be open for for extensions but closed for modifications
 //You should add new features without modifying existing code
 
-
+/*
 class Discount
 {
     public double GetDiscount(String customerType)
@@ -20,7 +20,7 @@ class Discount
             return 0;
         }
     }
-}
+}*/
 
 interface IdDiscount
 {
