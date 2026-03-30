@@ -1,4 +1,4 @@
-﻿/*class Vehicle  // base class (parent) 
+﻿class Vehicle  // base class (parent) 
 {
     public string brand = "Ford";  // Vehicle field
     public void honk()             // Vehicle method 
@@ -28,5 +28,5 @@ class Program
 }
 
 
-*/
+
 
